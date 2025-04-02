@@ -1,0 +1,14 @@
+D:\-\порграмирование\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\-\порграмирование\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfoInputs.cache
+D:\-\порграмирование\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfo.cs
+D:\-\порграмирование\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.csproj.CoreCompileInputs.cache
+D:\-\порграмирование\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.exe
+D:\-\порграмирование\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.deps.json
+D:\-\порграмирование\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.runtimeconfig.json
+D:\-\порграмирование\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.dll
+D:\-\порграмирование\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.pdb
+D:\-\порграмирование\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.dll
+D:\-\порграмирование\GuessTheNumber\obj\Debug\net8.0\refint\GuessTheNumber.dll
+D:\-\порграмирование\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.pdb
+D:\-\порграмирование\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.genruntimeconfig.cache
+D:\-\порграмирование\GuessTheNumber\obj\Debug\net8.0\ref\GuessTheNumber.dll
