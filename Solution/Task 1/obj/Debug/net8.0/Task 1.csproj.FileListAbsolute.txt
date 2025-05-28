@@ -1,0 +1,14 @@
+D:\-\порграмирование\Task 1\bin\Debug\net8.0\Task 1.exe
+D:\-\порграмирование\Task 1\bin\Debug\net8.0\Task 1.deps.json
+D:\-\порграмирование\Task 1\bin\Debug\net8.0\Task 1.runtimeconfig.json
+D:\-\порграмирование\Task 1\bin\Debug\net8.0\Task 1.dll
+D:\-\порграмирование\Task 1\bin\Debug\net8.0\Task 1.pdb
+D:\-\порграмирование\Task 1\obj\Debug\net8.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\-\порграмирование\Task 1\obj\Debug\net8.0\Task 1.AssemblyInfoInputs.cache
+D:\-\порграмирование\Task 1\obj\Debug\net8.0\Task 1.AssemblyInfo.cs
+D:\-\порграмирование\Task 1\obj\Debug\net8.0\Task 1.csproj.CoreCompileInputs.cache
+D:\-\порграмирование\Task 1\obj\Debug\net8.0\Task 1.dll
+D:\-\порграмирование\Task 1\obj\Debug\net8.0\refint\Task 1.dll
+D:\-\порграмирование\Task 1\obj\Debug\net8.0\Task 1.pdb
+D:\-\порграмирование\Task 1\obj\Debug\net8.0\Task 1.genruntimeconfig.cache
+D:\-\порграмирование\Task 1\obj\Debug\net8.0\ref\Task 1.dll

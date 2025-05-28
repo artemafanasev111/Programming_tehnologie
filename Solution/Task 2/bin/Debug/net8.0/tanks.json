@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "Name": "Резервуар 1",
+    "Description": "Надземный - вертикальный",
+    "Volume": 1500,
+    "MaxVolume": 2000,
+    "UnitId": 1
+  },
+  {
+    "Id": 2,
+    "Name": "Резервуар 2",
+    "Description": "Надземный - горизонтальный",
+    "Volume": 2500,
+    "MaxVolume": 3000,
+    "UnitId": 1
+  },
+  {
+    "Id": 3,
+    "Name": "Дополнительный резервуар 24",
+    "Description": "Надземный - горизонтальный",
+    "Volume": 3000,
+    "MaxVolume": 3000,
+    "UnitId": 2
+  },
+  {
+    "Id": 4,
+    "Name": "Резервуар 35",
+    "Description": "Надземный - вертикальный",
+    "Volume": 3000,
+    "MaxVolume": 3000,
+    "UnitId": 2
+  },
+  {
+    "Id": 5,
+    "Name": "Резервуар 47",
+    "Description": "Подземный - двустенный",
+    "Volume": 4000,
+    "MaxVolume": 5000,
+    "UnitId": 2
+  },
+  {
+    "Id": 6,
+    "Name": "Резервуар 256",
+    "Description": "Подводный",
+    "Volume": 500,
+    "MaxVolume": 500,
+    "UnitId": 3
+  }
+]

@@ -1,0 +1,14 @@
+D:\-\порграмирование\Solution\DealParserApp\bin\Debug\net8.0\DealParserApp.exe
+D:\-\порграмирование\Solution\DealParserApp\bin\Debug\net8.0\DealParserApp.deps.json
+D:\-\порграмирование\Solution\DealParserApp\bin\Debug\net8.0\DealParserApp.runtimeconfig.json
+D:\-\порграмирование\Solution\DealParserApp\bin\Debug\net8.0\DealParserApp.dll
+D:\-\порграмирование\Solution\DealParserApp\bin\Debug\net8.0\DealParserApp.pdb
+D:\-\порграмирование\Solution\DealParserApp\obj\Debug\net8.0\DealParserApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\-\порграмирование\Solution\DealParserApp\obj\Debug\net8.0\DealParserApp.AssemblyInfoInputs.cache
+D:\-\порграмирование\Solution\DealParserApp\obj\Debug\net8.0\DealParserApp.AssemblyInfo.cs
+D:\-\порграмирование\Solution\DealParserApp\obj\Debug\net8.0\DealParserApp.csproj.CoreCompileInputs.cache
+D:\-\порграмирование\Solution\DealParserApp\obj\Debug\net8.0\DealParserApp.dll
+D:\-\порграмирование\Solution\DealParserApp\obj\Debug\net8.0\refint\DealParserApp.dll
+D:\-\порграмирование\Solution\DealParserApp\obj\Debug\net8.0\DealParserApp.pdb
+D:\-\порграмирование\Solution\DealParserApp\obj\Debug\net8.0\DealParserApp.genruntimeconfig.cache
+D:\-\порграмирование\Solution\DealParserApp\obj\Debug\net8.0\ref\DealParserApp.dll
